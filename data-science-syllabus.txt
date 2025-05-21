@@ -1,0 +1,31 @@
+Overview of Data Science
+Python Programming:
+	Data Structures(data types, lists, dictionaries, sets, tuples),
+	Functions,
+	Control Flow,
+	Searching and Sorting Algorithims,
+	OOP,
+	SQL,
+	Git,
+	Projects using Python,
+Data Wrangling(Cleaning):
+	Api & DB,
+	multi-dimensional arrays,
+	manipulating dataframes,
+	Pandas,
+	NumPy,
+	Projects using NumPy & Pandas,
+Data Visualization:
+	Big Data,
+	matplotlib,
+	Power BI,
+	Tableau,
+	Projects using matplotlib & Power BI,
+Machine Learning and AI:
+	TensorFlow, or PyTorch
+	Supervised Learning ,
+	Linear regression,
+	Multiple regression,
+	Polynomial regression,
+	Unsupervised Learning,
+	Projects using PyTorch,
