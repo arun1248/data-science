@@ -22,7 +22,8 @@ Data Visualization:
 	Tableau,
 	Projects using matplotlib & Power BI,
 Machine Learning and AI:
-	TensorFlow, or PyTorch
+	TensorFlow, or PyTorch,
+	Google colab,
 	Supervised Learning ,
 	Linear regression,
 	Multiple regression,
