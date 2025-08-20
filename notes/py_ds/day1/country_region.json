@@ -1,0 +1,50 @@
+[
+    {
+        "Country": "United States",
+        "Region": "North America"
+    },
+    {
+        "Country": "Canada",
+        "Region": "North America"
+    },
+    {
+        "Country": "Brazil",
+        "Region": "South America"
+    },
+    {
+        "Country": "Argentina",
+        "Region": "South America"
+    },
+    {
+        "Country": "Germany",
+        "Region": "Europe"
+    },
+    {
+        "Country": "France",
+        "Region": "Europe"
+    },
+    {
+        "Country": "Nigeria",
+        "Region": "Africa"
+    },
+    {
+        "Country": "Egypt",
+        "Region": "Africa"
+    },
+    {
+        "Country": "China",
+        "Region": "Asia"
+    },
+    {
+        "Country": "India",
+        "Region": "Asia"
+    },
+    {
+        "Country": "Australia",
+        "Region": "Oceania"
+    },
+    {
+        "Country": "New Zealand",
+        "Region": "Oceania"
+    }
+]
